@@ -1,4 +1,4 @@
-# plex-bulk-invite
+# plex-bulk-reinvite
 
 Bulk re-invite Plex users and restore their per-library access after a server
 migration that detached or lost your shares.
